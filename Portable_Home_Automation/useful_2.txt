@@ -1,0 +1,4 @@
+{"total_documents":109,"result":[{"_id":"5a72bded5c5d751b0aa75476","_t":"str","at":1517469165,"device":"esp@saigajul.saigajul","protocol":"v2","data":1,"id_developer":"a61e23686ae07ae5cdcc12dd8f1ba854788bead952d3e07a1dd4d3647a3d33d6@saigajul.saigajul","created_at":1517469165,"owner":"saigajul"}]}
+
+
+{"total_documents":109,"result":[{"_id":"5a72bded5c5d751b0aa75476","_t":"str","at":1517469165,"device":"esp@saigajul.saigajul","protocol":"v2","data":0,"id_developer":"a61e23686ae07ae5cdcc12dd8f1ba854788bead952d3e07a1dd4d3647a3d33d6@saigajul.saigajul","created_at":1517469165,"owner":"saigajul"}]}

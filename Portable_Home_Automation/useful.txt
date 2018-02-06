@@ -1,0 +1,11 @@
+String Write_Url= "POST /streams HTTP/1.1";
+String Read_Url = "GET /streams/?max=1&order=-1";
+String Host = "Host: "+(String)host;
+String Accept = "Accept: application/json";
+String Device_Name = "esp@saigajul.saigajul";
+String User = "User-Agent: "+Device_Name;
+String Type_Header = "Content-Type: application/json";
+String API_Header  = "carriots.apikey: ";
+String API = "2703cac800d2719294bbb51caa93720b39698df8181e89d989380452d43eaff4";
+String Length = "Content-Length: ";
+String Connection_Close = "Connection: close";
